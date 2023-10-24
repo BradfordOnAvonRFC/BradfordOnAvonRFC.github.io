@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bradford-on-Avon Rugby Minis Festival 2023/24
-email: email@bradfordonavonrfc.uk
+title: BoA Minis Festival 2024
+email: festival@bradfordonavonrfc.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains all the information and details for the 2023/24 Bradford-on-Avon Rugby Minis Festival, to be held on
   Saturday 27th and Sunday 28th April 2024. 
@@ -29,9 +29,53 @@ twitter_username: boarugby
 github_username:  bradfordonavonrfc
 
 # Build settings
-theme: minima
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+# Theme Defaults
+logo: "/assets/images/favicons/android-chrome-192x192.png"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: true
+  # _information
+  - scope:
+      path: ""
+      type: information
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# Collections
+collections:
+  information:
+    output: true
+    permalink: /:collection/:path/
+
+# Include For processing
+include: ["_pages"]
+
+# Site Author and socials
+author:
+  name     : "Bradford-on-Avon Rugby Club"
+  avatar   : "/assets/images/android-chrome-512x512.png"
+  bio      : "BoA Rugby festival for the 2023 / 2024 season"
+  location : "Bradford-on-Avon, BA15 2HR"
+facebook:
+  username: "boarugby1982"
+twitter:
+  username: "boarugby"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -41,14 +85,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
