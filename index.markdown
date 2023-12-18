@@ -8,35 +8,47 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Info Download"
-      url: "/assets/documents/information.pdf"
-  caption: "Festival Information PDF Download"
-excerpt: "Festival Information including camping, fixtures, pitch locations, car parking and much more..."
+      url: "/assets/docs/BOAfestivalflyer.pdf"
+  caption: "Festival flyer PDF Download"
+excerpt: "Festival Information including registration, fixtures, pitch locations, car parking and much more..."
 intro: 
   - excerpt: 'Welcome to the 2024 Bradford-on-Avon Rugby Mini Festival'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Camping"
-    excerpt: "Camping information for during the festival"
+  # - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  #   alt: "placeholder image 1"
+  #   title: "Camping"
+  #   excerpt: "Camping information for during the festival"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    # alt: "placeholder image 2"
     title: "Fixtures"
     excerpt: "Details of all of the fixtures being played, when and where..."
-    url: "#test-link"
+    url: "/information"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Car Parking"
     excerpt: "Information for getting here and car parking"
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Event Sponsors"
-    excerpt: "This event couldn't happen without the kind donations from our sponsors"
-    url: "#test-link"
+    url: "/information"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - title: "Event Sponsors"
+    # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    # alt: "placeholder image 2"
+    excerpt: "This event couldn't happen without the kind donations from our sponsors"
+    url: "/sponsors"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+# feature_row2:
+  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  #   alt: "placeholder image 2"
+  #   title: "Event Sponsors"
+  #   excerpt: "This event couldn't happen without the kind donations from our sponsors"
+  #   url: "#test-link"
+  #   btn_label: "Read More"
+  #   btn_class: "btn--primary"
 # feature_row3:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"

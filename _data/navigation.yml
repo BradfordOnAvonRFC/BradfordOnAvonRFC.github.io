@@ -2,7 +2,7 @@ main:
   - title: "News"
     url: /news
   - title: "Information"
-    url: /collection-archive/
+    url: /information
   - title: "Sponsors"
     url: /sponsors
   - title: "About"

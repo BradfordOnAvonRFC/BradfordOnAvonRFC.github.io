@@ -12,7 +12,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:festival@bradfordonavonrfc.uk"
+      url: "mailto:minis.boarugby@icloud.com"
     - label: "BoA Website"
       icon: "fas fa-fw fa-link"
       url: "https://bradfordonavonrfc.rfu.club/"
@@ -24,7 +24,7 @@ author:
       url: "https://www.facebook.com/boarugby1982/"  
 ---
 
-Website for the Bradford-on-Avon Rugby Minis Festival to be held on Saturday 27th and Sunday 28th April 2024.
+Website for the Bradford-on-Avon Rugby Minis Festival to be held on Sunday 28th April 2024.
 
 If you wish to contact the festival organisers please reach out to the team:
-* festival@bradfordonavonrfc.uk
+* minis.boarugby@icloud.com
