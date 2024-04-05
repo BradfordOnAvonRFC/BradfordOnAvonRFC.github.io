@@ -1,9 +1,7 @@
 ---
-layout: single
+layout: sponsors
 title: Sponsors
+excerpt: This event couldn't happen without the kind donations from our sponsors.
 permalink: /sponsors/    
 type: pages
-author_profile: false
 ---
-
-Insert details of sponsors here

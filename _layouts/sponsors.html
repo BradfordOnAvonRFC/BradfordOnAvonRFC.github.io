@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<style>
+    
+    .sponsor-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+  
+    .sponsor {
+      width: calc(50% - 20px);
+      margin-bottom: 40px;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+  
+    .sponsor-image {
+      max-width: 100%;
+      height: auto;
+      margin-left: auto; /* Set left margin to auto */
+      margin-right: auto; /* Set right margin to auto */
+    }
+  
+    .sponsor-details {
+      text-align: center;
+    }
+  
+    @media (max-width: 768px) {
+      .sponsor {
+        width: calc(100% - 20px);
+      }
+    }
+  </style>
+<div id="main" role="main">
+    {% include sidebar.html %}
+  
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+  <span>{{ page.excerpt }}</span>
+</div>
+
+<div class="sponsor-list">
+  {% for sponsor in site.data.sponsors %}
+    <div class="sponsor">
+      <img src="{{ sponsor.image }}" alt="{{ sponsor.name }}" class="sponsor-image">
+      <div class="sponsor-details">
+        <h2>{{ sponsor.name }}</h2>
+        <p><i class="fas fa-fw fa-link"></i> <a href="{{ sponsor.website }}" target="_blank">{{ sponsor.website }}</a></p>
+        <p>{{ sponsor.description | markdownify }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

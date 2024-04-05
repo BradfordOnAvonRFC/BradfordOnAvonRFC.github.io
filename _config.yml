@@ -86,6 +86,7 @@ twitter:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - README.md
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/

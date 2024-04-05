@@ -1,8 +1,10 @@
 main:  
-  - title: "News"
-    url: /news
-  - title: "Information"
-    url: /information
+  - title: "Fixtures"
+    url: /fixtures
+  - title: "Getting Here"
+    url: /getting-here
+  - title: "Parking"
+    url: /carparking
   - title: "Sponsors"
     url: /sponsors
   - title: "About"
