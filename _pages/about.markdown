@@ -26,5 +26,12 @@ author:
 
 Website for the Bradford-on-Avon Rugby Minis Festival to be held on Sunday 28th April 2024.
 
+## The Club
+Bradford-on -Avon rugby club is a thriving rugby club, located in the village of Winsley, which has been running since 1982. 
+
+The aim of the club is to provide rugby, fun, and fitness for anybody, male or female from ages 5 and up. 
+
+The site of Bradford-On- Avon rugby club, is where the minis festival will take place.
+
 If you wish to contact the festival organisers please reach out to the team:
 * minis.boarugby@icloud.com
