@@ -1,0 +1,29 @@
+- name: Under 7s
+  age_group: U7
+  text: U7s Download
+  fixture_plan_pdf: /assets/fixtures/v1.0/u7_fixtures.pdf
+
+- name: Under 8s
+  age_group: U8
+  text: U8s Download
+  fixture_plan_pdf: /assets/fixtures/v1.0/u8_fixtures.pdf
+
+- name: Under 9s
+  age_group: U9
+  text: U9s Download
+  fixture_plan_pdf: /assets/fixtures/v1.0/u9_fixtures.pdf
+
+- name: Under 10s
+  age_group: U10
+  text: U10s Download 
+  fixture_plan_pdf: /assets/fixtures/v1.0/u10_fixtures.pdf
+
+- name: Under 11s
+  age_group: U11
+  text: U11s Download
+  fixture_plan_pdf: /assets/fixtures/v1.0/u11_fixtures.pdf
+
+- name: Under 12s
+  age_group: U12
+  text: U12s Download
+  fixture_plan_pdf: /assets/fixtures/v1.0/u12_fixtures.pdf
