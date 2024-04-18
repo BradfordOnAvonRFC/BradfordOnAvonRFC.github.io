@@ -12,23 +12,23 @@ date: 2016-03-23T11:48:41-04:00
 #   caption: "Festival flyer PDF Download"
 # excerpt: "Festival Information including registration, fixtures, pitch locations, car parking and much more..."
 feature_row:
+  - icon_class: fa fa-info-circle
+    title: "Event Info"
+    excerpt: "Details of event"
+    url: "/info"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - icon_class: fas fa-calendar-alt
     title: "Fixtures"
     excerpt: "Details of all of the fixtures being played, when and where..."
     url: "/fixtures"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-  - icon_class: fas fa-map-marker-alt
-    title: "How to find us"
-    excerpt: "Information for getting here and car parking"
-    url: "/getting-here"
-    btn_label: "Read More"
     btn_class: "btn--primary"  
 feature_row2:
-  - icon_class: fas fa-parking
-    title: "Car Parking"
-    excerpt: "Information for car parking and payment"
-    url: "/carparking"
+  - icon_class: fas fa-map-marker-alt
+    title: "Getting Here & Car Parking"
+    excerpt: "Information for getting here, car parking and payment"
+    url: "/getting-hereandparking"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - icon_class: fas fa-users

@@ -35,7 +35,7 @@ The pitch plan, rules and fixture lists for all age groups are provided below:
 All games will be played in accordance to RFU rules and can be found <a href="https://www.englandrugby.com/participation/coaching/age-grade-rugby" target="_blank">here</a>
 
 ## Fixtures
-Fixture lists are currently being finalised and will be available soon
+Fixture lists are currently being finalised and will be available soon<sup>&trade;</sup>
 {% assign fixtures = site.data.fixtures %}
 
 <div class="grid-container">

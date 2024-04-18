@@ -1,10 +1,10 @@
 main:  
+  - title: "Event Info"
+    url: /info
+  - title: "Getting Here & Parking"
+    url: /getting-hereandparking
   - title: "Fixtures"
-    url: /fixtures
-  - title: "Getting Here"
-    url: /getting-here
-  - title: "Parking"
-    url: /carparking
+    url: /fixtures  
   - title: "Sponsors"
     url: /sponsors
   - title: "About"
