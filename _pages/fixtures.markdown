@@ -26,14 +26,16 @@ classes: wide
 </style>
 The pitch plan, rules and fixture lists for all age groups are provided below:
 ## Pitch Plan
-<div class="col-md-6">
-    <img src="/assets/images/maps/pitch_plan_v2-Layout2.jpg" alt="Pitch Plan">
+<div class="map-container">
+    <!-- Replace the src attribute with the URL of your map image -->
+    <img src="/assets/images/maps/pitchplan_dry_v1.png" alt="Pitch Plan" width=930>
 </div>
 
 ### Rules
 All games will be played in accordance to RFU rules and can be found <a href="https://www.englandrugby.com/participation/coaching/age-grade-rugby" target="_blank">here</a>
 
 ## Fixtures
+Fixture lists are currently being finalised and will be available soon
 {% assign fixtures = site.data.fixtures %}
 
 <div class="grid-container">
@@ -41,7 +43,7 @@ All games will be played in accordance to RFU rules and can be found <a href="ht
   {% for fixture in fixtures %}
     <div class="grid-item">
       <h2>{{ fixture.name }}</h2>
-      <p><a href="{{ fixture.fixture_plan_pdf }}" target="_blank" class="btn btn--primary">{{ fixture.text }}</a></p>
+      <p><a href="{{ fixture.fixture_plan_pdf }}" target="_blank" class="btn btn--primary" onclick="return false;">{{ fixture.text }}</a></p>
     </div>
   {% endfor %}
 </div>
