@@ -16,7 +16,7 @@ See [Fixtures](/fixtures) for information on the pitch plans, fixtures and timin
 | 0900-1000 | Registration of team at their age group gazebo |
 | 1000 | Coaches welcome and briefing outside their age groups gazebo |
 | 1030 | Matches to start on the allocated pitches |
-| 1300-1400 | Matches to end followed by a spirit of rugby presentation at their age group gazebo |
+| 1300-1400 | Matches to end followed by a medal presentation at their age group gazebo |
 | 0930-1500 | Various food and drink outlets will be available, details to be provided on the festival website |
 
 ## First Aid

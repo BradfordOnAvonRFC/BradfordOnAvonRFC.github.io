@@ -22,6 +22,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/boarugby1982/"  
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/boarugby"  
 ---
 
 Website for the Bradford-on-Avon Rugby Minis Festival to be held on Sunday 28th April 2024.
