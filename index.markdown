@@ -14,7 +14,7 @@ date: 2016-03-23T11:48:41-04:00
 feature_row:
   - icon_class: fa fa-info-circle
     title: "Event Info"
-    excerpt: "Details of event"
+    excerpt: "Information for the festival, including timings, food and drink..."
     url: "/info"
     btn_label: "Read More"
     btn_class: "btn--primary"

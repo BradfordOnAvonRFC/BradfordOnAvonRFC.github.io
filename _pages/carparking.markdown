@@ -39,10 +39,10 @@ The car parks are open from **8:30am**, there is a **£5** car parking donation 
 
 Three car parks are available for parking:
 #### Car Park 1 - Lead Coach car park & Accessibility parking (<i class="fas fa-map-marker-alt"></i> [///optimists.nitrate.soft](https://what3words.com////optimists.nitrate.soft){:target="_blank" rel="noopener noreferrer"})
-Car park 1 is found at the BoA clubhouse and is dedicated for lead coaches to aid in unloading kit and for accessibility parking
+Car park 1 is found at the BoA clubhouse and is designated for Head coaches with kit, paramedics, volunteers and disabled players and parents
 
 #### Car Park 2 - Traffic Approaching from Bath direction (<i class="fas fa-map-marker-alt"></i> [///larger.spared.landowner](https://what3words.com/larger.spared.landowner){:target="_blank" rel="noopener noreferrer"})
-Car park 2 is located on the BoA club grounds and primarily to be used for visitors approaching from Bath
+Car park 2 is located on the BoA club grounds and to be used for visitors approaching from Bath
 
 #### Car Park 3 - All other Festival visitors (<i class="fas fa-map-marker-alt"></i> [///socialite.scanner.update](https://what3words.com/socialite.scanner.update){:target="_blank" rel="noopener noreferrer"})
 
