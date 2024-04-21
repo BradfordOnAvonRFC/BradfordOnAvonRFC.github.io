@@ -32,7 +32,9 @@ The pitch plan, rules and fixture lists for all age groups are provided below:
 </div>
 
 ### Rules
-All games will be played in accordance to RFU rules and can be found <a href="https://www.englandrugby.com/participation/coaching/age-grade-rugby" target="_blank">here</a>
+All games will be played in accordance to RFU rules and can be found <a href="https://www.englandrugby.com/participation/coaching/age-grade-rugby" target="_blank">here</a>. A full listing of all the festival match rules can be found in the BoA Minis festival rule document.
+
+<a href="/assets/docs/BoA_rules_v2.pdf" class="btn btn--primary" target="_blank">Festival Rules</a> 
 
 ## Fixtures
 Fixture lists are currently being finalised and will be available soon<sup>&trade;</sup>

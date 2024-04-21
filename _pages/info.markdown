@@ -25,8 +25,12 @@ GWP Medical will provide a paramedic-led ambulance service from 08:00 – 15:00 
 A defibrillator can be found at the club house.
 
 ## Matches
+The festival will be played as a round-robin playing opportunity where equal team and player participation is the emphasis.  Scores will not be recorded and therefore winning does not affect your on-going participation as every team plays the same appropriate number of matches.  There are no winners/runners-up trophies.
+
 Parents are welcome to support all players, but please remain off the pitches and behind the ropes where applicable.
-Matches are arranged so no teams will play back to back matches to allow rest and time for the players to have refreshments
+For a full llisting of all festival match rules see the following. 
+
+<a href="/assets/docs/BoA_rules_v2.pdf" class="btn btn--primary" target="_blank">Read more</a>
 
 ## Safeguarding
 We follow the RFU [safeguarding guidelines](https://www.englandrugby.com/governance/safeguarding){:target="_blank" rel="noopener noreferrer"}
