@@ -1,3 +1,7 @@
+- name: Under 6s
+  age_group: U6
+  text: We welcome U6 teams from every club attending, There will be a pitch where they can play some fun rugby related games
+
 - name: Under 7s
   age_group: U7
   text: U7s Download
@@ -22,8 +26,3 @@
   age_group: U11
   text: U11s Download
   fixture_plan_pdf: /assets/fixtures/v1.0/u11_fixtures.pdf
-
-- name: Under 12s
-  age_group: U12
-  text: U12s Download
-  fixture_plan_pdf: /assets/fixtures/v1.0/u12_fixtures.pdf

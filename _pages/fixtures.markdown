@@ -28,7 +28,7 @@ The pitch plan, rules and fixture lists for all age groups are provided below:
 ## Pitch Plan
 <div class="map-container">
     <!-- Replace the src attribute with the URL of your map image -->
-    <img src="/assets/images/maps/pitchplan_dry_v1.png" alt="Pitch Plan" width=930>
+    <img src="/assets/images/maps/pitchplan_dry_v2.png" alt="Pitch Plan" width=930>
 </div>
 
 ### Rules
@@ -45,7 +45,13 @@ Fixture lists are currently being finalised and will be available soon<sup>&trad
   {% for fixture in fixtures %}
     <div class="grid-item">
       <h2>{{ fixture.name }}</h2>
+      {% if {{fixture.fixture_plan_pdf}} %}
       <p><a href="{{ fixture.fixture_plan_pdf }}" target="_blank" class="btn btn--primary" onclick="return false;">{{ fixture.text }}</a></p>
+      {% else %}
+      <p>{{ fixture.text }}</p>
+      {% endif %}
+      
     </div>
   {% endfor %}
 </div>
+
