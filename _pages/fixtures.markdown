@@ -13,7 +13,7 @@ classes: wide
 }
 
 .grid-item {
-  flex: 0 1 calc(30% - 10px); /* Adjust width and margin */
+  flex: 0 1 calc(50% - 10px); /* Adjust width and margin */
   margin-bottom: 10px; /* Adjust margin between items */
   background-color: #f0f0f0;
   border: 1px solid #ccc;
