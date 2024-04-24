@@ -13,11 +13,11 @@ See [Fixtures](/fixtures) for information on the pitch plans, fixtures and timin
 
 | Time  |  Event  |
 | 0830 | Car parks (£5 CASH / CARD or pay in advance) open and food and beverages available to buy |
-| 0900 - 1000 | Registration of team at their age group gazebo |
+| 0900 to 1000 | Registration of team at their age group gazebo |
 | 1000 | Coaches welcome and briefing outside their age groups gazebo |
 | 1030 | Matches to start on the allocated pitches |
-| 1300 - 1400 | Matches to end followed by a medal presentation at their age group gazebo |
-| 0930 - 1500 | Various food and drink outlets will be available, details to be provided on the festival website |
+| 1300 to 1400 | Matches to end followed by a medal presentation at their age group gazebo |
+| 0930 to 1500 | Various food and drink outlets will be available, details to be provided on the festival website |
 
 ## First Aid
 GWP Medical will provide a paramedic-led ambulance service from 08:00 – 15:00 on site should there be any medical needs. 
