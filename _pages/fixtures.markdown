@@ -46,7 +46,7 @@ Fixture lists are currently being finalised and will be available soon<sup>&trad
     <div class="grid-item">
       <h2>{{ fixture.name }}</h2>
       {% if {{fixture.fixture_plan_pdf}} %}
-      <p><a href="{{ fixture.fixture_plan_pdf }}" target="_blank" class="btn btn--primary" onclick="return false;">{{ fixture.text }}</a></p>
+      <p><a href="{{ fixture.fixture_plan_pdf }}" target="_blank" class="btn btn--primary">{{ fixture.text }}</a></p>
       {% else %}
       <p>{{ fixture.text }}</p>
       {% endif %}
