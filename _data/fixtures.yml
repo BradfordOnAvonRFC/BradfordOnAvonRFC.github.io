@@ -20,7 +20,7 @@
 - name: Under 10s
   age_group: U10
   text: U10s Download 
-  fixture_plan_pdf: /assets/fixtures/v2.0/u10_fixtures.pdf
+  fixture_plan_pdf: /assets/fixtures/v3.0/u10_fixtures.pdf
 
 - name: Under 11s
   age_group: U11
