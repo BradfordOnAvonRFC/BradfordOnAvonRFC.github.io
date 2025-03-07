@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BoA Minis Festival 2024
+title: BoA Minis Festival 2025
 email: minis.boarugby@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site contains all the information and details for the 2023/24 Bradford-on-Avon Rugby Minis Festival, to be held on
-  Saturday 27th and Sunday 28th April 2024. 
+  This site contains all the information and details for the 2024/25 Bradford-on-Avon Rugby Minis Festival, to be held on
+  Sunday 27th April 2025. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "bradfordonavonrfc.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boarugby
@@ -70,7 +70,7 @@ include: ["_pages"]
 author:
   name     : "Bradford-on-Avon Rugby Club"
   avatar   : "/assets/images/android-chrome-512x512.png"
-  bio      : "BoA Rugby festival for the 2023 / 2024 season"
+  bio      : "BoA Rugby festival for the 2024 / 2025 season"
   location : "Bradford-on-Avon, BA15 2HR"
 facebook:
   username: "boarugby1982"

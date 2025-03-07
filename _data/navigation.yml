@@ -1,11 +1,11 @@
 main:  
-  - title: "Event Info"
-    url: /info
-  - title: "Getting Here & Parking"
-    url: /getting-hereandparking
-  - title: "Fixtures"
-    url: /fixtures  
-  - title: "Sponsors"
-    url: /sponsors
+  # - title: "Event Info"
+  #   url: /info
+  # - title: "Getting Here & Parking"
+  #   url: /getting-hereandparking
+  # - title: "Fixtures"
+  #   url: /fixtures  
+  # - title: "Sponsors"
+  #   url: /sponsors
   - title: "About"
     url: /about
