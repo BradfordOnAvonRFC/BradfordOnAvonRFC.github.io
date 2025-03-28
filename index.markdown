@@ -42,6 +42,7 @@ feature_row2:
 
 ## Welcome
 Welcome to the 2025 Bradford-on-Avon Rugby Mini Festival
+Welcome to the 2025 Bradford-on-Avon Rugby Mini Festival
 
 {% include feature_row %}
 
