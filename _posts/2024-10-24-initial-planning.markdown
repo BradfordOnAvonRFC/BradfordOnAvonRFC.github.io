@@ -3,14 +3,14 @@ layout: posts
 type: single
 classes: wide
 title:  "Preparations are underway"
-date:   2023-10-24 12:00:00 +000
+date:   2024-10-24 12:00:00 +000
 categories: prep
 ---
 Initial preparations and planning 
 
 # Exciting News: Minis Rugby Festival in the Works!
 
-We are thrilled to announce that the initial preparations and planning stages for the upcoming **Minis Rugby Festival** are well underway! This exciting event is scheduled to take place on **28th April 2024**, and it promises to be a fantastic celebration of rugby.
+We are thrilled to announce that the initial preparations and planning stages for the upcoming **Minis Rugby Festival** are well underway! This exciting event is scheduled to take place on **27th April 2025**, and it promises to be a fantastic celebration of rugby.
 
 ## What to Expect
 
@@ -32,7 +32,7 @@ Our dedicated team is hard at work, making sure everything is in place for a mem
 
 - **Volunteers**: We welcome volunteers who want to contribute to the success of the festival. Your assistance in various roles, from event coordination to assisting with activities, will be greatly appreciated.
 
-Stay tuned for more updates as we continue to work towards creating a fantastic Kids Mini Rugby Festival on 28th, 2024.
+Stay tuned for more updates as we continue to work towards creating a fantastic Kids Mini Rugby Festival on 27th, 2025.
 
 If you have any questions, suggestions, or if you're interested in getting involved, please don't hesitate to contact us. We can't wait to share this incredible experience with you and the entire community. Save the date and join us for a weekend of rugby excitement!
 
