@@ -41,7 +41,7 @@ feature_row2:
 ---
 
 ## Welcome
-Welcome to the 2025 Bradford-on-Avon Rugby Mini Festival
+We look forward to welcoming you to the Bradford on Avon Minis Festival on Sunday 27th April 2025. It is sure to be a great day of rugby, with each club, team and player following the RFU core values of Teamwork, Respect, Enjoyment, Discipline and Sportsmanship.
 
 {% include feature_row %}
 

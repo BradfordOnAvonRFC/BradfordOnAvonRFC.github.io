@@ -36,9 +36,9 @@ Please respect the RFU’s Half Game Rule and age grade best practice of fieldin
 
 Every effort will be made to ensure suitable gaps between games (ie to minimise or remove back-to-back games) to allow rest and time for the players to have refreshments.
 
-Parents are welcome to support all players, but please remain off the pitches and behind the ropes where applicable.
-For a full listing of all festival match rules see the following. 
+Parents are welcome to support all players, but please remain off the pitches during play and please allow space along the touchlines for coaches, line markers and most importantly for player and spectator safety.
 
+For a full listing of all festival match rules see the following. 
 <a href="/assets/docs/BoA_rules_2025v1.pdf" class="btn btn--primary" target="_blank">Read more</a>
 
 ## Refereeing
