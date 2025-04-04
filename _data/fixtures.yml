@@ -1,28 +1,28 @@
-- name: Under 6s
-  age_group: U6
-  text: We welcome U6 teams from every club attending, There will be a pitch where they can play some fun rugby related games
+# - name: Under 6s
+#   age_group: U6
+#   text: We welcome U6 teams from every club attending, There will be a pitch where they can play some fun rugby related games
 
-- name: Under 7s
-  age_group: U7
-  text: U7s Download
-  fixture_plan_pdf: /assets/fixtures/v2.0/u7_fixtures.pdf
+# - name: Under 7s
+#   age_group: U7
+#   text: U7s Download
+#   fixture_plan_pdf: /assets/fixtures/v2.0/u7_fixtures.pdf
 
-- name: Under 8s
-  age_group: U8
-  text: U8s Download
-  fixture_plan_pdf: /assets/fixtures/v2.0/u8_fixtures.pdf
+# - name: Under 8s
+#   age_group: U8
+#   text: U8s Download
+#   fixture_plan_pdf: /assets/fixtures/v2.0/u8_fixtures.pdf
 
-- name: Under 9s
-  age_group: U9
-  text: U9s Download
-  fixture_plan_pdf: /assets/fixtures/v2.0/u9_fixtures.pdf
+# - name: Under 9s
+#   age_group: U9
+#   text: U9s Download
+#   fixture_plan_pdf: /assets/fixtures/v2.0/u9_fixtures.pdf
 
-- name: Under 10s
-  age_group: U10
-  text: U10s Download 
-  fixture_plan_pdf: /assets/fixtures/v3.0/u10_fixtures.pdf
+# - name: Under 10s
+#   age_group: U10
+#   text: U10s Download 
+#   fixture_plan_pdf: /assets/fixtures/v3.0/u10_fixtures.pdf
 
-- name: Under 11s
-  age_group: U11
-  text: U11s Download
-  fixture_plan_pdf: /assets/fixtures/v2.0/u11_fixtures.pdf
+# - name: Under 11s
+#   age_group: U11
+#   text: U11s Download
+#   fixture_plan_pdf: /assets/fixtures/v2.0/u11_fixtures.pdf
