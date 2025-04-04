@@ -52,7 +52,7 @@ Our club director of safeguarding will be present on the day if there are any co
 During the day there will be official photographers taking images of the players during their matches. If you do not wish for your child to be photographed please alert us before the matches commence.
 
 ## Food & Drink
-there will be a wide range of food and drinks available on the day including the club BBQ, cake/sweet stalls, the clubhouse for breakfast rolls, wood fired pizza, Mac’n’Cheese, slushies and ice cream. Hot drinks will be available in the club house and additional coffee vans amongst the pitches, and the clubhouse bar will be open.
+There will be a wide range of food and drinks available on the day including the club BBQ, cake/sweet stalls, the clubhouse for breakfast rolls, wood fired pizza, Mac’n’Cheese, slushies and ice cream. Hot drinks will be available in the club house and additional coffee vans amongst the pitches, and the clubhouse bar will be open.
 
 ## Raffle
 A raffle will be going on during the day, so look out for tickets to be in for a chance to win some great rugby related items.
