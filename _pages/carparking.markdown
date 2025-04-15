@@ -31,9 +31,9 @@ Car Park 1 is strictly for head coaches with kit and Blue Badge holders only. In
 Car park 2 & 3 are located on the BoA club grounds.
 
 ## Directions
-Sat Nav Address: Ashley lane, BA15 2HR
-
-What3Words: (<i class="fas fa-map-marker-alt"></i> [///progress.solving.unfit](https://what3words.com/progress.solving.unfit){:target="_blank" rel="noopener noreferrer"})
+**Sat Nav Address:** Ashley Lane, BA15 2HR  
+**Google Maps:** <a href="https://www.google.com/maps?q=Bradford-on-Avon+Rugby+Club,+Ashley+Lane,+Bradford-on-Avon,+BA15+2HR" target="_blank" style="text-decoration: none; color: inherit;"><i class="fas fa-map-marker-alt"></i> Bradford-on-Avon Rugby Club, Ashley Lane, Bradford-on-Avon, BA15 2HR</a>  
+**What3Words:** (<i class="fas fa-map-marker-alt"></i> <a href="https://what3words.com/progress.solving.unfit" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">///progress.solving.unfit</a>)
 #### From Bath
 If coming from Bath drive from Widcombe Hill; Claverton Down Rd; Brassknocker Hill; and follow the B3108 to Winsley / BoA RFC.
 #### From Chippenham
