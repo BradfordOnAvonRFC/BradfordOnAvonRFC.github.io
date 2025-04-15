@@ -10,7 +10,9 @@ classes: wide
     <!-- Replace the src attribute with the URL of your map image -->
     <img src="/assets/images/maps/CarParkingMap2025.png" alt="Car Park Map Image">
     <!-- Use Font Awesome for the map icon -->
-    <p><i class="fas fa-map-marker-alt"></i> Bradford-on-Avon Rugby Club, Ashley Lane, Bradford-on-Avon, BA15 2HR</p>
+    <a href="https://www.google.com/maps?q=Bradford-on-Avon+Rugby+Club,+Ashley+Lane,+Bradford-on-Avon,+BA15+2HR" target="_blank" style="text-decoration: none; color: inherit;">
+    <p><i class="fas fa-map-marker-alt"></i> Bradford-on-Avon Rugby Club, Ashley Lane, Bradford-on-Avon, BA15 2HR </p>
+  </a>
 </div>
 
 ## Car Parks
@@ -18,7 +20,7 @@ The car parks are open from **8:30am**, In order to help make car parking as sea
 
 > Please have your car parking payment of **£5** ready. A **£5** note is preferred. Payment by card is also OK.
 
-Permits for head coach / coach with kit allowing entry into Car Park 1 will be provided, on the basis of 1 permit per age group per club.
+Permits for head coach / coach with kit allowing entry into Car Park 1 will be provided, on the basis of 1 permit per age group per club. **A £5 charge is still required if you have a permit**
 
 All cars will be exiting the Winsley bypass as indicated on the map (“ALL Festival access”) and will be directed by car parking stewards to either Car Park 1 or Car Parks 2 and 3. There will be no access to car parking where indicated by a red cross on the map. Parking access routes will be clearly signposted on the day.
 

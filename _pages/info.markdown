@@ -14,7 +14,7 @@ See [Fixtures](/fixtures) for information on the pitch plans, fixtures and timin
 On arrival, breakfast rolls and hot drinks will be available to purchase from the clubhouse, with various other food and drink options becoming available through the day.
 
 | Time  |  Event  |
-| 0830 | Car parks (£5 CASH preferred) open. Breakfast rolls and hot drinks available to buy from the clubhouse |
+| 0830 | Car parks (**£5 CASH preferred**) open. Breakfast rolls and hot drinks available to buy from the clubhouse |
 | 0900 to 1000 | Registration of team at their age group gazebo |
 | 1000 | Coaches welcome and briefing outside their age groups gazebo |
 | 1030 | Food Court opens - various food and drink options |
@@ -53,6 +53,3 @@ During the day there will be official photographers taking images of the players
 
 ## Food & Drink
 There will be a wide range of food and drinks available on the day including the club BBQ, cake/sweet stalls, the clubhouse for breakfast rolls, wood fired pizza, Mac’n’Cheese, slushies and ice cream. Hot drinks will be available in the club house and additional coffee vans amongst the pitches, and the clubhouse bar will be open.
-
-## Raffle
-A raffle will be going on during the day, so look out for tickets to be in for a chance to win some great rugby related items.
