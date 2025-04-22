@@ -19,7 +19,7 @@ On arrival, breakfast rolls and hot drinks will be available to purchase from th
 | 1000 | Coaches welcome and briefing outside their age groups gazebo |
 | 1030 | Food Court opens - various food and drink options |
 | 1030 | Matches to start on the allocated pitches |
-| 1300 to 1400 | Matches to end followed by a medal presentation at their age group gazebo |
+| 1300 to 1400 | Matches to end followed by a Spirit of Rugby presentation at their age group gazebo |
 
 **Please note that dogs are not allowed at the rugby club**
 
@@ -30,7 +30,9 @@ GWP Medical will provide a paramedic-led ambulance service from 08:30 – 15:00 
 A defibrillator can be found at the club house.
 
 ## Matches
-The festival will be played as a round-robin playing opportunity where equal team and player participation is the emphasis.  Scores will not be recorded and therefore winning does not affect your on-going participation as every team plays the same appropriate number of matches.  There are no winners/runners-up trophies.
+The festival will be played as a round-robin format. Matches will not be scored, instead the focus is on player participation, rugby skills, enjoyment and the RFU’s TREDS core values.
+
+Each club in each age group will be asked to vote for the team showing the best Spirit of Rugby according to the RFU’s core principles of TREDS: a Spirit of Rugby trophy will be awarded at the end of each age group's matches. Additionally, participant medals will be presented to all players.
 
 Please respect the RFU’s Half Game Rule and age grade best practice of fielding teams of mixed ability. 
 
@@ -46,7 +48,11 @@ As with previous year’s, matches will be refereed by the first named team in a
 
 ## Safeguarding
 We follow the RFU [safeguarding guidelines](https://www.englandrugby.com/governance/safeguarding){:target="_blank" rel="noopener noreferrer"}
-Our club director of safeguarding will be present on the day if there are any concerns.
+Our Club Safeguarding Officer will be present on the day if there are any concerns.
+
+Players should play within their individual age grade by default. 
+
+**Please let BoARFC know in advance if you have any players playing over or under the stated age for the age group or have any combined age groups, and that you have the relevant CB / RFU approvals as per Regs 15.2 - 15.5.**
 
 ## Photography
 During the day there will be official photographers taking images of the players during their matches. If you do not wish for your child to be photographed please alert us before the matches commence.
