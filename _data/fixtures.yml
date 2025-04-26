@@ -20,9 +20,9 @@
 - name: Under 10s
   age_group: U10
   text: U10s Download 
-  fixture_plan_pdf: /assets/fixtures/u10_r4.pdf
+  fixture_plan_pdf: /assets/fixtures/u10_r5.pdf
 
 - name: Under 11s
   age_group: U11
   text: U11s Download
-  fixture_plan_pdf: /assets/fixtures/u11_r2.pdf
+  fixture_plan_pdf: /assets/fixtures/u11_r4.pdf
