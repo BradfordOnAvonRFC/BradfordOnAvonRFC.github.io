@@ -7,7 +7,7 @@ author_profile: true
 author:
   name     : "Bradford-on-Avon Rugby Club"
   avatar   : "/assets/images/favicons/android-chrome-512x512.png"
-  bio      : "BoA Rugby festival for the 2024 / 2025 season"
+  bio      : "BoA Rugby festival for the 2025 / 2026 season"
   location : "Bradford-on-Avon, BA15 2HR"
   links:
     - label: "Email"
@@ -27,7 +27,7 @@ author:
       url: "https://instagram.com/boarugby"  
 ---
 
-Website for the Bradford-on-Avon Rugby Minis Festival to be held on Sunday 27th April 2025.
+Website for the Bradford-on-Avon Rugby Minis Festival to be held on {{ site.festival_date }}.
 
 ## The Club
 Bradford-on -Avon rugby club is a thriving rugby club, located in the village of Winsley, which has been running since 1982. 
