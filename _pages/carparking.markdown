@@ -21,15 +21,13 @@ The car parks are open from **8:30am**.
 In order to help make car parking as seamless as possible  
 > Please have your car parking payment of **£5** ready. A **£5** note is preferred. Payment by card is also OK.
 
-Permits for head coach / coach with kit allowing entry into Car Park 1 will be provided, on the basis of 1 permit per age group per club. **A £5 charge is still required if you have a permit**
+All cars will be exiting the Winsley bypass as indicated on the map (“ALL Festival access”) and will be directed by car parking stewards to either Car Park 1, 2 or 4 (Car Park 3 will be used as an overspill). There will be no access to car parking where indicated by a red cross on the map. Parking access routes will be clearly signposted on the day.
 
-All cars will be exiting the Winsley bypass as indicated on the map (“ALL Festival access”) and will be directed by car parking stewards to either Car Park 1 or Car Parks 2 and 3. There will be no access to car parking where indicated by a red cross on the map. Parking access routes will be clearly signposted on the day.
+#### Car Park 1 - Accessibility Parking
+Accessibility parking will be located in Car Park 1. In order to aid traffic flow off the bypass and into car parks, please have your Blue Badge or Disabled Parking permit **clearly showing on your dashboard as you arrive**, if you have no badge or permit clearly visible, you may be asked to park elsewhere.
 
-#### Car Park 1 - Lead Coach Car Park & Accessibility Parking
-Car Park 1 is strictly for head coaches with kit and Blue Badge holders only. In order to aid traffic flow off the bypass and into car parks, please have your Head Coach Permit clearly showing on your dashboard as you arrive: if you have no permit clearly visible, you will be asked to proceed to Car Park 2 and 3.
-
-#### Car Park 2 & 3 - All Player and Family Parking
-Car park 2 is located on the BoA club grounds.
+#### Head coach / coach with kit parking
+This year, we are not providing specific permits for head coaches / coaches with kit. All parking is close to the playing areas.
 
 ## Directions
 **Sat Nav Address:** Ashley Lane, BA15 2HR  

@@ -28,13 +28,13 @@ The pitch plan, rules and fixture lists for all age groups are provided below:
 ## Pitch Plan
 <div class="map-container">
     <!-- Replace the src attribute with the URL of your map image -->
-    <img src="/assets/images/maps/pitchplan2025_dry_v1.png" alt="Pitch Plan" width=930>
+    <img src="/assets/images/maps/pitchplan2026_dry_v1.png" alt="Pitch Plan" width=930>
 </div>
 
 ### Rules
 All games will be played in accordance to RFU rules and can be found <a href="https://www.englandrugby.com/participation/coaching/age-grade-rugby" target="_blank">here</a>. A full listing of all the festival match rules can be found in the BoA Minis festival rule document.
 
-<a href="/assets/docs/BoA_rules_2025v1.pdf" class="btn btn--primary" target="_blank">Festival Rules</a> 
+<a href="/assets/docs/BoA_rules_2026v1.1.pdf" class="btn btn--primary" target="_blank">Festival Rules</a> 
 
 ## Fixtures
 <div class="grid-container">
