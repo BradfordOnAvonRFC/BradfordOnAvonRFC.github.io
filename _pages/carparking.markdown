@@ -8,7 +8,7 @@ classes: wide
 
 <div class="map-container">
     <!-- Replace the src attribute with the URL of your map image -->
-    <img src="/assets/images/maps/CarParkingMap2025.png" alt="Car Park Map Image">
+    <img src="/assets/images/maps/CarParkingMap2026.png" alt="Car Park Map Image">
     <!-- Use Font Awesome for the map icon -->
     <a href="https://www.google.com/maps?q=Bradford-on-Avon+Rugby+Club,+Ashley+Lane,+Bradford-on-Avon,+BA15+2HR" target="_blank" style="text-decoration: none; color: inherit;">
     <p><i class="fas fa-map-marker-alt"></i> Bradford-on-Avon Rugby Club, Ashley Lane, Bradford-on-Avon, BA15 2HR </p>
