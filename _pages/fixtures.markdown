@@ -28,7 +28,9 @@ The pitch plan, rules and fixture lists for all age groups are provided below:
 ## Pitch Plan
 <div class="map-container">
     <!-- Replace the src attribute with the URL of your map image -->
-    <img src="/assets/images/maps/pitchplan2026_dry_v2.png" alt="Pitch Plan" width=930>
+    <a href="/assets/images/maps/pitchplan2026_dry_v2.png">
+      <img src="/assets/images/maps/pitchplan2026_dry_v2.png" alt="Pitch Plan" width=930>
+    </a>
 </div>
 
 ### Rules
