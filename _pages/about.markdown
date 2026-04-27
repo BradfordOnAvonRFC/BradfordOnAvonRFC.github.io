@@ -7,12 +7,12 @@ author_profile: true
 author:
   name     : "Bradford-on-Avon Rugby Club"
   avatar   : "/assets/images/favicons/android-chrome-512x512.png"
-  bio      : "BoA Rugby festival for the 2025 / 2026 season"
+  bio      : "BoA Rugby festival for the 2026 / 2027 season"
   location : "Bradford-on-Avon, BA15 2HR"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:minis.boarugby@icloud.com"
+      url: "mailto:boafestival@proton.me"
     - label: "BoA Website"
       icon: "fas fa-fw fa-link"
       url: "https://bradfordonavonrfc.rfu.club/"
@@ -37,4 +37,4 @@ The aim of the club is to provide rugby, fun, and fitness for anybody, male or f
 The site of Bradford-On- Avon rugby club, is where the minis festival will take place.
 
 If you wish to contact the festival organisers please reach out to the team:
-* minis.boarugby@icloud.com
+* boafestival@proton.me

@@ -1,10 +1,10 @@
 ---
 title: "Festival Info"
 layout: single
-date: 2026-04-24T09:35:00-00:00
-header:
-  overlay_image: /assets/images/BoAPoster2026.png
-  overlay_filter: 0.4
+date: 2026-04-27T11:55:00-00:00
+# header:
+#   overlay_image: /assets/images/BoAPoster2026.png
+#   overlay_filter: 0.4
 # header:
 #   overlay_color: "#000"
 #   overlay_filter: "0.5"
@@ -46,11 +46,11 @@ feature_row2:
 ## Welcome
 We look forward to welcoming you to the Bradford on Avon Minis Festival on {{ site.festival_date }}. It is sure to be a great day of rugby, with each club, team and player following the RFU core values of Teamwork, Respect, Enjoyment, Discipline and Sportsmanship.
 
-{% include figure 
+<!-- {% include figure 
   image_path="/assets/images/BoAPoster2026.png" 
   alt="BoA Minis Rugby Festival"
   popup=true 
-%}
+%} -->
 
 {% include feature_row %}
 
